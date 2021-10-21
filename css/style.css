@@ -593,6 +593,10 @@ color: var(--text-black-600);
     /* background-color: violet; */
     flex: 0 0 100%;
     max-width: 100%;
+    display: none;
+}
+.about-section .tab-content .active{
+    display: block;
 }
 .about-section .skills .skill-item{
     /* background-color: yellow; */
