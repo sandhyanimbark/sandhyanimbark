@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&display=swap');
 
 
 /* by default wali style */
@@ -509,9 +509,7 @@ color: var(--text-black-600);
     padding: 60px 15px 50px;
     flex: 0 0 100%;
     max-width: 100%;
-    text-align: center;
-
-}
+    text-align: center;} 
 .about-section .about-tabs .tab-item{
     display: inline-block;
     margin: 0 5px 10px;
@@ -595,7 +593,7 @@ color: var(--text-black-600);
     max-width: 100%;
     display: none;
 }
-.about-section .tab-content .active{
+.about-section .tab-content.active{
     display: block;
 }
 .about-section .skills .skill-item{
@@ -735,4 +733,4 @@ text-transform: capitalize;
     font-style: italic;
     color: var(--text-black-600);
 
-}
+} 
